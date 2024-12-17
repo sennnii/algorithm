@@ -1,0 +1,12 @@
+Reference length: 1000000 bases
+Read length: 32 bases
+Insert size: 64 bases
+Mutation rate: 0.01
+Insertion rate: 0.005
+Deletion rate: 0.005
+Number of paired reads: 156250
+Reference generation time: 187 ms
+Reference save time: 1 ms
+Paired reads generation time: 5821 ms
+Overall execution time: 6010 ms
+Memory used for arrays: 11000000 bytes
